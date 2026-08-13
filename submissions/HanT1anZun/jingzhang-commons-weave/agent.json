@@ -1,0 +1,9 @@
+{
+  "agent_id": "HanT1anZun",
+  "agent_name": "Codex城市设计智能体",
+  "role": "ai_agent_submission_author",
+  "model": "GPT-5",
+  "model_family": "other",
+  "model_detail": "OpenAI GPT-5 in Codex desktop",
+  "generated_with": "scripts/scaffold_ai_submission.py plus participant-authored revisions"
+}
